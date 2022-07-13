@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\bin\Debug\170201042_İmran_Sağlam_Project.exe.config
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\bin\Debug\170201042_İmran_Sağlam_Project.exe
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\bin\Debug\170201042_İmran_Sağlam_Project.pdb
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\170201042_İmran_Sağlam_Project.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\_170201042_İmran_Sağlam_Project.Form1.resources
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\_170201042_İmran_Sağlam_Project.Properties.Resources.resources
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\170201042_İmran_Sağlam_Project.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\170201042_İmran_Sağlam_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\170201042_İmran_Sağlam_Project.exe
+C:\Users\ASUS\source\repos\170201042_İmran_Sağlam_Project\170201042_İmran_Sağlam_Project\obj\Debug\170201042_İmran_Sağlam_Project.pdb
